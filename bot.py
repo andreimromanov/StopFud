@@ -11,3 +11,5 @@ def reply():
 
 if __name__ == "__main__":
     print(reply())
+
+responses.append("research > rumors.")  # added 2025-09-27T19:10:01.735817
