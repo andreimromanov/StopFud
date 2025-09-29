@@ -13,3 +13,8 @@ def test_reply_in_responses():
     from bot import reply, responses
     assert reply() in responses
 # added 2025-09-29T09:04:17.798783
+
+def test_reply_in_responses():
+    from bot import reply, responses
+    assert reply() in responses
+# added 2025-09-29T17:07:56.246056
