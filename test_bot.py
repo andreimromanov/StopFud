@@ -8,3 +8,8 @@ def test_reply_returns_string():
     from bot import reply
     assert isinstance(reply(), str)
 # added 2025-09-27T11:08:54.089743
+
+def test_reply_in_responses():
+    from bot import reply, responses
+    assert reply() in responses
+# added 2025-09-29T09:04:17.798783
