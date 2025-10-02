@@ -19,3 +19,5 @@ responses.append("Stay strong, facts matters.")  # added 2025-09-29T21:13:24.212
 responses.append("Stay strong, code matters.")  # added 2025-09-30T11:01:46.664285
 
 responses.append("Ignore FUD, focus on ETH.")  # added 2025-10-02T05:23:50.925466
+
+responses.append("community > rumors.")  # added 2025-10-02T05:36:17.213114
